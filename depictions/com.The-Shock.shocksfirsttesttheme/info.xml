@@ -1,0 +1,32 @@
+<packageInfo>
+    <bundleId>com.The-Shock.shocksfirsttesttheme</bundleId>
+    <name>Shocks First Tweak</name>
+    <version>0.0.2</version>
+    <descriptions>
+        <description>
+            My first ever Tweak made & published to any cydia repository.
+        </description>
+        <description>
+            Just a dead boring theme to test xD
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>11.1.2</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>anemone</dependency>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V0.0.2 </changeVersion>
+            <changeDescription>An important change</changeDescription>
+            <changeDescription>Another important change</changeDescription>
+        </change>
+        <change>
+            <changeVersion>V0.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>

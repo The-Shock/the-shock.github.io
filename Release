@@ -1,0 +1,8 @@
+Origin: Shock's Repo
+Label: Shock's Repo
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architecture: iphoneos-arm
+Components: main
+Description: A tweak made by Shock!

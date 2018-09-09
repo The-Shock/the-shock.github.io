@@ -1,0 +1,8 @@
+Package: com.the-shock.mathnplayslogo
+Name: Shock
+Version: 1.0
+Section: Theme
+Architecture: iphoneos-arm 
+Description: Custom made Zeppelin theme for MathNPlays YouTube channel.
+Author: Sam Hockham <sam.hockham@outlook.com>
+Maintainer: Sam Hockham <sam.hockham@outlook.com>
