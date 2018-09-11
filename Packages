@@ -1,7 +1,7 @@
 Package: com.The-Shock.shocksfirsttesttheme
 Name: Shocks First Test Theme
 Depends: anemone
-Version: 0.0.2
+Version: 1.0
 Architecture: iphoneos-arm
 Description: My first EVER theme/tweak uploaded to any Cydia Repository.
 Maintainer: Shock <sam.hockham@outlook.com>
@@ -10,7 +10,7 @@ Section: Themes
 
 Package: com.The-Shock.mathnplays
 Name: MathNPlays Logo
-Version: 0.0.2
+Version: 1.0
 Architecture: iphoneos-arm
 Description: My first EVER theme/tweak uploaded to any Cydia Repository.
 Maintainer: Shock <sam.hockham@outlook.com>

@@ -1,10 +1,9 @@
 Package: com.the-shock.mathnplayslogo
-Name: Math N Plays Logo
+Name: Math N Plays Zeppelin Logo
 Version: 1.0
 Architecture: iphoneos-arm
 Description: A custom Zeppelin theme for YouTuber "Math 'N Plays"
 Maintainer: Sam Hockham <sam.hockham@outlook.com>
 Author: Sam Hockham <sam.hockham@outlook.com>
 Section: Theme  
-Depends: mobilesubstrate
-
+Depends: zeppelin

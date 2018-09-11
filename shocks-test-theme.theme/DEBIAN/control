@@ -1,0 +1,9 @@
+Package: com.the-shock.testtheme
+Name: Test Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Test theme!
+Maintainer: Sam Hockham <sam.hockham@outlook.com>
+Author: Sam Hockham <sam.hockham@outlook.com>
+Section: Theme  
+Depends: anemone
